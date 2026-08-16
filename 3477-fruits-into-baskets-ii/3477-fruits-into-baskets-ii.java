@@ -1,14 +1,17 @@
 class Solution {
-    public int numOfUnplacedFruits(int[] f, int[] b) {
-        Set<Integer> s=new HashSet<>();
-        for(int i=0;i<f.length;i++){
-            for(int j=0;j<b.length;j++){
-                if(f[i]<=b[j] && !s.contains(j)){
-                    s.add(j);
+    public int numOfUnplacedFruits(int[] fruits, int[] baskets) {
+        int c = 0;
+        for (int i = 0; i < fruits.length; i++) {
+            boolean placed = false;
+            for (int j = 0; j < baskets.length; j++) {
+                if (baskets[j] >= fruits[i]) {
+                    baskets[j] = -1;
+                    placed = true;
                     break;
                 }
             }
+            if (!placed) c++;
         }
-        return f.length-s.size();
+        return c;
     }
 }
