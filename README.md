@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Divyansh0208-dev/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Divyansh0208-dev/DSA/tree/master/0162-find-peak-element) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyansh0208-dev/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Sorting
@@ -19,5 +20,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Divyansh0208-dev/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Divyansh0208-dev/DSA/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
