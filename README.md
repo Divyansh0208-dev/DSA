@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyansh0208-dev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Divyansh0208-dev/DSA/tree/master/0836-rectangle-overlap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -72,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Divyansh0208-dev/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Divyansh0208-dev/DSA/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
