@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Divyansh0208-dev/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Divyansh0208-dev/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Divyansh0208-dev/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Divyansh0208-dev/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3477-fruits-into-baskets-ii](https://github.com/Divyansh0208-dev/DSA/tree/master/3477-fruits-into-baskets-ii) |
 ## Sorting
 |  |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Divyansh0208-dev/DSA/tree/master/0836-rectangle-overlap) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Divyansh0208-dev/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
